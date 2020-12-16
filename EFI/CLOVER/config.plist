@@ -237,7 +237,7 @@
 	<key>RtVariables</key>
 	<dict>
 		<key>ROM</key>
-		<data>NfdrEY6e</data>
+		<string></string>
 		<key>BooterConfig</key>
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
@@ -245,57 +245,15 @@
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
-		<key>FirmwareFeatures</key>
-		<string>0xFC0FE137</string>
-		<key>Board-ID</key>
-		<string>Mac-DB15BD556843C820</string>
-		<key>FirmwareFeaturesMask</key>
-		<string>0xFF1FFF3F</string>
-		<key>BoardVersion</key>
-		<string>iMac17,1</string>
-		<key>Manufacturer</key>
-		<string>Apple Inc.</string>
-		<key>ChassisType</key>
-		<string>0xD</string>
-		<key>BiosVersion</key>
-		<string>IM171.88Z.F000.B00.2010062240</string>
-		<key>BoardManufacturer</key>
-		<string>Apple Inc.</string>
-		<key>ChassisAssetTag</key>
-		<string>Asset Tag#</string>
-		<key>PlatformFeature</key>
-		<string>0x0</string>
-		<key>Family</key>
-		<string>iMac</string>
-		<key>ChassisManufacturer</key>
-		<string>Apple Inc.</string>
-		<key>BoardSerialNumber</key>
-		<string>C02511802GUGPF7UE</string>
-		<key>BiosVendor</key>
-		<string>Apple Inc.</string>
 		<key>ProductName</key>
 		<string>iMac17,1</string>
-		<key>SmUUID</key>
-		<string>F32F2F0A-1A91-47A7-ACC1-36047F118E9E</string>
-		<key>BoardType</key>
-		<integer>10</integer>
-		<key>EfiVersion</key>
-		<string>429.40.5.0.0</string>
-		<key>SerialNumber</key>
-		<string>C02PF0RAGG7L</string>
-		<key>LocationInChassis</key>
-		<string>Part Component</string>
-		<key>BiosReleaseDate</key>
-		<string>10/06/2020</string>
-		<key>Version</key>
-		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>InjectSystemID</key>
 		<true/>
 		<key>CustomUUID</key>
-		<string>E5F986E3-1024-46F1-8D9E-64B8623E1060</string>
+		<string></string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 	</dict>
