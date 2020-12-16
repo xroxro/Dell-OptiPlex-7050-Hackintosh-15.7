@@ -1,9 +1,9 @@
 # OptiPlex 7050 hackintosh
-Clover for OptiPlex 7050(in late 2018) with Skylake CPU & GPU 
+Clover for OptiPlex 7050 with Skylake CPU & GPU 
 
-Only fix the Graphics by modify UEFI variables, Ethernet, USB, and sound card with AppleALC, but, is enough! Less is more.
+Test with OptiPlex 7050 (bought in late 2018) which using i7-6700, Intel HD Graphics 530, Intel I219LM2 Ethernet, macOS 10.15.7
 
-Test with OptiPlex 7050 which using i7-6700, Intel HD Graphics 530, Intel I219LM2 Ethernet, macOS 10.15.7
+Use DP for primary display，HDMI for secondary.
 
 ## UEFI Variables
 
