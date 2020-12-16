@@ -30,6 +30,24 @@ The following variables need to be updated:
 
 5. Note: the UEFI Variables will lose after set BOIS to factory default!
 
+### Working
+
+- [x] APFS
+- [x] CPU power management
+- [x] GPU acceleration
+- [x] Video encoder/decoder hardware
+- [x] All USB ports at their max speed (manually mapped)
+- [x] Gigabit Ethernet
+- [x] Onboard Audio + Integrated Speaker at the front
+- [x] All iCloud Services
+- [x] App Store
+- [x] Dell Sensors (Fans/Temperature)
+- [x] Built in Displayport 1.4 and HDMI 1.2
+- [x] TRIM working on Sabrent NVMe
+- [x] TRIM enabled for SATA SSD with `sudo trimforce enable`
+- [x] Time Machine
+- [x] Seamless software updates
+
 ### FAQ
 1. SIP disable default ?
 
